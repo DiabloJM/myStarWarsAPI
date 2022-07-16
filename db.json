@@ -151,15 +151,70 @@
         "resultados": [
           {
             "id": 13,
-            "nombre": "",
-            "especie": "",
-            "genero": "",
-            "altura": "",
-            "nacimiento": "",
+            "nombre": "Yoda",
+            "especie": "DESCONOCIDO",
+            "genero": "Masculino",
+            "altura": "0.66 m",
+            "nacimiento": "896 ABY",
             "planeta":
-            "imagen": "",
-            "descripcion": ""
-        }
+            "imagen": "https://static.wikia.nocookie.net/esstarwars/images/d/d6/Yoda_SWSB.png/revision/latest/scale-to-width-down/350?cb=20180105191224",
+            "descripcion": "Era un reverenciado Maestro Jedi que sirvió como Gran Maestro de la Orden Jedi en los últimos días de la República Galáctica. Era famoso dentro de la Orden por su sabiduría, poderes de la Fuerza y combate con sables de luz, y vivió durante casi 900 años. Su tiempo durante los últimos días de la Orden Jedi y más allá lo convirtió en una figura consecuente en la historia galáctica"
+        },
+        {
+            "id": 14
+            "nombre": "Dooku"
+            "especie": "Humano",
+            "genero": "Masculino",
+            "altura": "1.93 m",
+            "nacimiento": "102 ABY",
+            "planeta":
+            "imagen": "https://static.wikia.nocookie.net/esstarwars/images/b/b8/Dooku_Headshot.jpg/revision/latest/scale-to-width-down/350?cb=20200115140857",
+            "descripcion": "Fue un Lord Sith que lideró la Confederación de Sistemas Independientes como Jefe de Estado durante las Guerras Clon. A pesar de que una vez fue un Maestro Jedi, Dooku dejó la Orden Jedi y la República Galáctica después de desilusionarse con la corrupción en el gobierno. Dando la espalda a la luz, Dooku se unió al lado oscuro de la Fuerza y se convirtió en el aprendiz de Darth Sidious, un Señor Oscuro de los Sith, tomando el nombre de Darth Tyranus y reclamando su título como el Conde de Serenno. Con su maestro, que era secretamente el Canciller Supremo Sheev Palpatine, Dooku conspiró para derrocar tanto a la República como a los Jedi para que los Sith pudieran reclamar su anterior dominio. Con este fin, supervisó un creciente movimiento Separatista que finalmente resultó en la formación de la Confederación de Sistemas Independientes. Además de reunir a cientos de sistemas estelares rebeldes para la causa Separatista, Dooku estuvo involucrado en la creación de los soldados clon del Gran Ejército de la República, suministrando a los kaminoanos una plantilla de clonación, Jango Fett, así como un biochip de modificación conductual que contenía el Protocolo Clon 66. Como resultado de las maquinaciones de Dooku y Sidious, la galaxia se vio envuelta en las Guerras Clon en el 22 ABY"
+        },
+        {
+            "id": 15,
+            "nombre": "Darth Sidious",
+            "especie": "Hummano",
+            "genero": "Masculino",
+            "altura": "1.73 m",
+            "nacimiento": "84 ABY",
+            "planeta":
+            "imagen": "https://static.wikia.nocookie.net/esstarwars/images/9/98/Palpatine-TROS-infobox.jpg/revision/latest/scale-to-width-down/350?cb=20200423044005",
+            "descripcion": "Nacido como Sheev Palpatine y también conocido simplemente como el Emperador, fue un hombre humano Señor Oscuro de los Sith y Emperador del Imperio Galáctico, que gobernó desde el 19 ABY hasta el 4 DBY. Ascendiendo al poder en el Senado de la República como senador de Naboo, el Lord Sith en secreto conservó dos identidades, Sidious y Palpatine, usando ambas para avanzar en su carrera política. Orquestando la caída de la República Galáctica y de la Orden Jedi a través de las Guerras Clon, y luego estableciendo su reinado sobre la galaxia que duró hasta su muerte en la Batalla de Endor. Sin embargo, el lado oscuro de la Fuerza dio lugar a poderes que permitieron al Emperador regresar de la tumba"
+        },  
+        {
+            "id": 16,
+            "nombre": "Rex",
+            "especie": "Hummano",
+            "genero": "Masculino",
+            "altura": "1.83 m",
+            "nacimiento": "32 ABY",
+            "planeta":
+            "imagen": "https://static.wikia.nocookie.net/disney/images/3/3a/Captain_Rex_3.jpg/revision/latest?cb=20170322024507&path-prefix=es",
+            "descripcion": "Su designación era CT-7567 fue un veterano Capitán Clon que dirigió la aclamada Legión 501 del Gran Ejército de la República durante las Guerras Clon. Rex sirvió más adelante como capitán y comandante en la Alianza para Restaurar la República durante la Guerra Civil Galáctica. Criado y entrenado en Kamino, CT-7567 entró al servicio de la República Galáctica en la Batalla de Geonosis, en el 22 ABY. 7567 se forjó la reputación de un honorable comandante ante Jedi y soldados clon por igual, llegando a ser conocido como uno de los mejores y más duros soldados del Gran Ejército de la República. Con el tiempo, tomó el apodo de Rex. Como capitán de la 501, Rex sirvió como segundo al mando del General Jedi Anakin Skywalker, cuya valentía y heterodoxia en batalla llegó a compartir. Rex fue muy amigo del Comandante Clon Mariscal Cody, cuya relación era un reflejo de la de sus respectivos Generales Jedi, Skywalker y Obi-Wan Kenobi. Los cuatro a menudo recibieron misiones conjuntas para coordinar sus campañas en primera línea contra la Confederación de Sistemas Independientes"
+        },
+        {
+            "id": 17,
+            "nombre": "Boba Fett",
+            "especie": "Hummano",
+            "genero": "Masculino",
+            "altura": "1.83 m",
+            "nacimiento": "32 ABY",
+            "planeta":
+            "imagen": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2021/11/1193126-scaled.jpg?fit=1200%2C675&quality=50&strip=all&ssl=1",
+            "descripcion": "Fue un cazarrecompensas humano, y el clon del infame cazarrecompensas Jango Fett. Boba fue creado por los clonadores de Kamino y era físicamente idéntico a los soldados clon creados para el Gran Ejército de la República, aunque Boba fue inalterado y no creció aceleradamente como los demás clones. Criado como el hijo de Jango, Boba aprendió las habilidades de combate necesarias para algún día convertirse en cazarrecompensas por derecho propio"
+        },
+        {
+            "id": 18,
+            "nombre": "Darth Vader",
+            "especie": "Hummano",
+            "genero": "Masculino",
+            "altura": "2.03 m",
+            "nacimiento": "19 ABY",
+            "planeta":
+            "imagen": "https://i.redd.it/yriap9fnk6u71.jpg",
+            "descripcion": "Una vez que fue un heroico Caballero Jedi, Darth Vader fue seducido por el lado oscuro de la Fuerza, se convirtió en un Lord Sith y lideró la erradicación de la Orden Jedi por parte del Imperio. Permaneció al servicio del Emperador, el malvado Darth Sidious, durante décadas, haciendo cumplir la voluntad de su Maestro y tratando de aplastar a la incipiente Alianza Rebelde. Pero todavía había bien en él"
+        },
         ]
       ]
     ],
