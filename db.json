@@ -174,7 +174,7 @@
         {
             "id": 15,
             "nombre": "Darth Sidious",
-            "especie": "Hummano",
+            "especie": "Humano",
             "genero": "Masculino",
             "altura": "1.73 m",
             "nacimiento": "84 ABY",
@@ -185,7 +185,7 @@
         {
             "id": 16,
             "nombre": "Rex",
-            "especie": "Hummano",
+            "especie": "Humano",
             "genero": "Masculino",
             "altura": "1.83 m",
             "nacimiento": "32 ABY",
@@ -196,7 +196,7 @@
         {
             "id": 17,
             "nombre": "Boba Fett",
-            "especie": "Hummano",
+            "especie": "Humano",
             "genero": "Masculino",
             "altura": "1.83 m",
             "nacimiento": "32 ABY",
@@ -207,7 +207,7 @@
         {
             "id": 18,
             "nombre": "Darth Vader",
-            "especie": "Hummano",
+            "especie": "Humano",
             "genero": "Masculino",
             "altura": "2.03 m",
             "nacimiento": "19 ABY",
@@ -215,11 +215,220 @@
             "imagen": "https://i.redd.it/yriap9fnk6u71.jpg",
             "descripcion": "Una vez que fue un heroico Caballero Jedi, Darth Vader fue seducido por el lado oscuro de la Fuerza, se convirtió en un Lord Sith y lideró la erradicación de la Orden Jedi por parte del Imperio. Permaneció al servicio del Emperador, el malvado Darth Sidious, durante décadas, haciendo cumplir la voluntad de su Maestro y tratando de aplastar a la incipiente Alianza Rebelde. Pero todavía había bien en él"
         },
+        {
+            "id": 19,
+            "nombre": "Rey",
+            "especie": "Humano",
+            "genero": "Femenino",
+            "altura": "1.7 m",
+            "nacimiento": "35 DBY",
+            "planeta":
+            "imagen": "https://static.wikia.nocookie.net/esstarwars/images/2/2b/Rey_TROS_Fathead.png/revision/latest/scale-to-width-down/326?cb=20191018183720",
+            "descripcion": "Una mujer humana sensible a la Fuerza, fue una Jedi que luchó por la Resistencia contra la Primera Orden durante la Era de la Nueva República. Aunque nació como Rey Palpatine, no era consciente de su linaje como nieta del Emperador Sheev Palpatine y se refirió a sí misma simplemente como Rey, creyendo que no era nadie. Endurecida por los duros desiertos de Jakku, Rey aprendió a sobrevivir como carroñera, convirtiéndose en una hábil mecánica, piloto y combatiente en el proceso. Después de descubrir su conexión latente con la Fuerza, Rey se esforzó por aprender el camino de los Jedi mientras intentaba entender su vínculo con el Líder Supremo Kylo Ren"
+        },
+        {
+            "id": 20,
+            "nombre": "Finn",
+            "especie": "Humano",
+            "genero": "Masculino",
+            "altura": "1.78 m",
+            "nacimiento": "11 DBY",
+            "planeta":
+            "imagen": "https://static.wikia.nocookie.net/esstarwars/images/9/92/Finn_Advanced_Graphics_TROS.png/revision/latest?cb=20200105031349",
+            "descripcion": "Finn fue el apodo de FN-2187, un soldado de asalto humano sensible a la Fuerza que sirvió a la Primera Orden hasta su huida y posterior deserción a la Resistencia durante la Guerra Primera Orden-Resistencia. Aunque entrenado desde el nacimiento para ser un soldado leal y obediente, la conciencia de FN-2187 entró en conflicto con los métodos de la Primera Orden. Durante un tiempo no estuvo dispuesto a apoyar a la Resistencia, con la esperanza de escapar del conflicto galáctico en lugar de luchar por una causa que creía estaba condenada al fracaso. A medida que la galaxia se consumía por la guerra, el soldado renegado se vio finalmente obligado a decidir dónde estaban sus verdaderas lealtades"
+        },
+        {
+            "id": 21,
+            "nombre": "Kylo Ren",
+            "especie": "Humano",
+            "genero": "Masculino",
+            "altura": "1.89 m",
+            "nacimiento": "5 DBY",
+            "planeta":
+            "imagen": "https://i0.wp.com/wipy.tv/wp-content/uploads/2020/02/Significado-del-casco-de-Kylo-Ren.jpg?fit=1000%2C600&ssl=1",
+            "descripcion": "Fue un hombre humano sensible a la Fuerza que, siendo maestro de los Caballeros de Ren, conquistó gran parte de la galaxia durante su reinado como Líder Supremo de la Primera Orden. La Fuerza era intensa en Ren; además de su entrenamiento Jedi y su conocimiento del saber arcano del lado oscuro, el linaje de los Jedi y Sith más poderosos fluía por sus venas. Fue la encarnación del conflicto debido a su inmersión en las enseñanzas de ambos lados, pero fue a través de la discordia que obtuvo el poder, canalizando la ira en poder. Finalmente, Ren estaba decidido a extinguir el lado luminoso dentro de sí mismo y destruir los últimos rastros de la Orden Jedi, cumpliendo el legado de su abuelo, el Lord Sith Darth Vader"
+        },
+        {
+            "id": 22,
+            "nombre": "Snoke",
+            "especie": "Artificial",
+            "genero": "Masculino",
+            "altura": "2.18 m",
+            "nacimiento": "4 DBY",
+            "planeta":
+            "imagen": "https://static.wikia.nocookie.net/esstarwars/images/9/9d/SnokeTLJ.png/revision/latest/scale-to-width-down/350?cb=20180113005803",
+            "descripcion": "Fue una creación genética humanoide que gobernó la Primera Orden como Líder Supremo durante la Era de la Nueva República. Posiblemente inconsciente de su verdadera naturaleza, Snoke era una invención genética artificial creada en el planeta Exegol por el resucitado Señor Oscuro de los Sith y Emperador Galáctico Darth Sidious. Aunque fue diseñado para ser un conducto que el Lord Sith pudiera manipular, Snoke poseía una mente independiente y una conexión profunda con el lado oscuro de la Fuerza, sin embargo, no era un Sith. Tenía un profundo conocimiento de la tradición arcana y redescubrió muchos de los secretos perdidos sobre la Fuerza dentro de las Regiones Desconocidas, mientras derrotaba a innumerables adversarios con su astuta manipulación y dominio de la Fuerza"
+        },
+        {
+            "id": 23,
+            "nombre": "Wilhuff Tarkin",
+            "especie": "Humano",
+            "genero": "Masculino",
+            "altura": "1.8 m",
+            "nacimiento": "64-59 ABY",
+            "planeta":
+            "imagen": "https://static.wikia.nocookie.net/esstarwars/images/c/c1/Tarkininfobox.jpg/revision/latest/top-crop/width/360/height/450?cb=20160918123818",
+            "descripcion": "Fue un humano que llegó a ser de los más importantes oficiales del Imperio Galáctico, uno de los primeros en obtener el alto rango de Gran Moff. Fue el creador de la doctrina Tarkin, la cual tuvo su encarnación clave en la Estrella de la Muerte. Era nativo del planeta Eriadu, donde la familia Tarkin tenía una larga historia política. Tarkin inició su carrera sirviendo en la fuerza de seguridad de la República de las regiones exteriores. Después se retiró y entró en la política, iniciando como Gobernador Teniente de Eriadu y el Sector Seswenna. Después de esto volvió a la milicia bajo las órdenes del Canciller Supremo Palpatine, ganando poder hasta llegar a ser gobernador de macrosectores bajo el título de Gran Moff. Durante este tiempo, Tarkin conoció los diseños de su amigo Raith Sienar de una estación de batalla planetaria y expedicionaria. Convencido del potencial del diseño, Tarkin le presentó los diseños a Palpatine, diseños de una estación que más tarde se convertiría en la temible Primera Estrella de la Muerte"
+        },
+        {
+            "id": 24,
+            "nombre": "Poe Dameron",
+            "especie": "Humano",
+            "genero": "Masculino",
+            "altura": "1.72 m",
+            "nacimiento": "2 DBY",
+            "planeta":
+            "imagen": "https://static.wikia.nocookie.net/esstarwars/images/8/8a/Poe_Dameron_Advanced_Graphics_TROS.png/revision/latest?cb=20200105031746",
+            "descripcion": "Fue un piloto humano que sirvió como comandante en la Nueva República y, más tarde, la Resistencia durante su conflicto con la Primera Orden. Hijo de la Teniente Shara Bey y del Sargento Kes Dameron de la Alianza para Restaurar la República, Dameron siguió los pasos de su madre y se convirtió en piloto al servicio de la Flota de Defensa de la Nueva República como comandante del Escuadrón Estoque, pero se desilusionó con la inacción de la República frente a las violaciones del Concordato Galáctico por parte de la Primera Orden. Dameron desertó a la Resistencia, donde se convirtió en uno de los operativos más confiables de la General Leia Organa. Dameron voló bajo el indicativo de Líder Negro mientras pilotaba su caza estelar T-70 Ala-X especializado, Negro Uno"
+        }
         ]
       ]
     ],
   ],
   "planetas": [
-  
+    [
+      "info": {
+        "cantidad": 16,
+        "paginas": 2,
+        "siguiente":
+        "prev": null
+      },
+    "resultados": [
+      {
+        "id": 1,
+        "nombre": "Polis Massa",
+        "coordenadas": "K-20",
+        "rotacion": "Es un campo de asteroides",
+        "orbita": "Es un campo de asteroides",
+        "clima": "Anteriormente arido, ahora ninguno",
+        "imagen": "https://static.wikia.nocookie.net/esstarwars/images/d/d2/Polis_Massa_surface.jpg/revision/latest/scale-to-width-down/350?cb=20181109014358",
+        "descripcion": "Era un campo de asteroides ubicado en el sector Subterrel de los Territorios del Borde Exterior de la galaxia, lejos de las principales rutas hiperespaciales. En algún momento, Polis Massa fue un planeta ubicado dentro del sistema del mismo nombre. El planeta fue el hogar de un pueblo subterráneo llamado eellayin hasta que fue destruido por un misterioso cataclismo",
+        "nativos": {
+          "https://my-json-server.typicode.com/DiabloJM/myStarWarsAPI/personajes/1",
+          "https://my-json-server.typicode.com/DiabloJM/myStarWarsAPI/personajes/2"
+        }
+      },
+      {
+        "id": 2,
+        "nombre": "Corellia",
+        "coordenadas": "M-11",
+        "rotacion": "DESCONOCIDO",
+        "orbita": "DESCONOCIDO",
+        "clima": "Temperado",
+        "imagen": "https://static.wikia.nocookie.net/esstarwars/images/d/d7/Corellia-SWCT.png/revision/latest/scale-to-width-down/350?cb=20190128020739",
+        "descripcion": "Corellia era un planeta ubicado en los Mundos del Núcleo de la galaxia, conocido por sus pilotos y sus grandes naves estelares. Naves como el Halcón Milenario y las naves Imperiales se construyeron en Corellia",
+        "nativos": {
+          "https://my-json-server.typicode.com/DiabloJM/myStarWarsAPI/personajes/3"
+        }
+      },
+      {
+        "id": 3,
+        "nombre": "Jakku",
+        "coordenadas": "I-13",
+        "rotacion": "26.8 Horas",
+        "orbita": "352 Dias",
+        "clima": "Fria",
+        "imagen": "https://static.wikia.nocookie.net/esstarwars/images/f/ff/Jakku-PoeDameronFlightLog.png/revision/latest/scale-to-width-down/350?cb=20170805083652",
+        "descripcion": "Jakku era un remoto planeta desierto ubicado en el sistema del mismo nombre, dentro de las Extensiones Occidentales del Borde Interior de la galaxia. Aunque muchos en la galaxia lo consideraban distante y sin algún valor, Jakku fue el lugar de importantes sucesos que darían forma a la historia galáctica. En el 5 DBY, fue el sitio de la decisiva Batalla de Jakku, la cual puso fin a la Guerra Civil Galáctica en favor de la Nueva República. Una generación más tarde, el planeta fue hogar de la carroñera Rey, quien se involucró en los acontecimientos de la Guerra Fría después de ayudar al antiguo soldado de asalto de la Primera Orden Finn y al droide astromecánico BB-8 a escapar del mundo con un mapa que conducía al desaparecido Jedi Luke Skywalker",
+        "nativos": {
+          "https://my-json-server.typicode.com/DiabloJM/myStarWarsAPI/personajes/19"
+        }
+      },
+      {
+        "id": 4,
+        "nombre": "Kashyyyk",
+        "coordenadas": "DESCONOCIDO",
+        "rotacion": "DESCONOCIDO",
+        "orbita": "DESCONOCIDO",
+        "clima": "Temperado",
+        "imagen": "https://static.wikia.nocookie.net/esstarwars/images/8/8a/Kashyyk_Ghost_Raid.png/revision/latest/scale-to-width-down/350?cb=20160914094510",
+        "descripcion": "Kashyyyk fue un planeta cubierto de árboles wroshyr localizado en el cuadrante occidental de la Galaxia y el mundo natal de los wookiees. Era miembro de la República Galáctica y tras las Guerras Clon fue esclavizado por el Imperio Galáctico. El planeta estaba clasificado por el Imperio como G5-623",
+        "nativos": {
+          "https://my-json-server.typicode.com/DiabloJM/myStarWarsAPI/personajes/4"
+        }
+      },
+      {
+        "id": 5,
+        "nombre": "Kamino",
+        "coordenadas": "DESCONOCIDO",
+        "rotacion": "27 Horas",
+        "orbita": "463 Dias",
+        "clima": "DESCONOCIDO",
+        "imagen": "https://static.wikia.nocookie.net/esstarwars/images/5/52/Kamino-DB.png/revision/latest/scale-to-width-down/350?cb=20160913200828",
+        "descripcion": "Kamino era un planeta acuático ubicado en un sistema estelar extragaláctico que se encontraba al sur de la galaxia satélite Laberinto Rishi y más allá de la galaxia conocida. Estaba habitado por los kaminoanos, una raza de seres altos y esbeltos que eran considerados como una especie misteriosa con tendencia al hermetismo. También eran conocidos por su tecnología de clonación que finalmente condujo a la creación de un ejército clon para la República Galáctica",
+        "nativos": {
+          "https://my-json-server.typicode.com/DiabloJM/myStarWarsAPI/personajes/16",
+          "https://my-json-server.typicode.com/DiabloJM/myStarWarsAPI/personajes/17"
+        }
+      },
+      {
+        "id": 6,
+        "nombre": "Mustafar",
+        "coordenadas": "L-19",
+        "rotacion": "DESCONOCIDO",
+        "orbita": "412 Dias",
+        "clima": "Abrasador",
+        "imagen": "https://static.wikia.nocookie.net/esstarwars/images/6/61/Mustafar-TROSGG.png/revision/latest/scale-to-width-down/350?cb=20201111174744",
+        "descripcion": "Mustafar era un pequeño planeta volcánico ubicado en el sistema Mustafar, situado entre dos gigantes gaseosos en los Territorios del Borde Exterior que se alió con la Confederación de Sistemas Independientes durante las Guerras Clon y más tarde fue tomado por el Imperio Galáctico después de que la Tecno Unión se nacionalizara al final del conflicto",
+        "nativos": {
+          "https://my-json-server.typicode.com/DiabloJM/myStarWarsAPI/personajes/18"
+        }
+      },
+      {
+        "id": 7,
+        "nombre": "Yavin 4",
+        "coordenadas": "DESCONOCIDO",
+        "rotacion": "DESCONOCIDO",
+        "orbita": "4.818 Dias",
+        "clima": "Templado",
+        "imagen": "https://static.wikia.nocookie.net/esstarwars/images/d/d4/Yavin-4-SWCT.png/revision/latest/scale-to-width-down/350?cb=20170924222729",
+        "descripcion": "Yavin 4 fue la cuarta luna en órbita del gigante gaseoso Yavin Prime, cubierta de junglas. En algún momento durante la Guerra Civil Galáctica, albergó la base principal de la Alianza Para Restaurar la República, un grupo de luchadores de la resistencia que se oponían a la tiranía del Imperio Galáctico. Tras una gran batalla que tuvo lugar alrededor de Yavin, la Alianza trasladó su base a Hoth",
+        "nativos": {
+          "https://my-json-server.typicode.com/DiabloJM/myStarWarsAPI/personajes/24"
+        }
+      },
+      {
+        "id": 8,
+        "nombre": "Mandalore",
+        "coordenadas": "O-7",
+        "rotacion": "19 Horas",
+        "orbita": "366 Dias",
+        "clima": "Calido y Seco",
+        "imagen": "https://static.wikia.nocookie.net/esstarwars/images/5/5e/Mandalore_SWCT.png/revision/latest/scale-to-width-down/350?cb=20170913230013",
+        "descripcion": "Mandalore fue un planeta ubicado en los Territorios del Borde Exterior. Era el mundo natal de los mandalorianos, un pueblo temible y belicista que luchó contra los Jedi y asaltó su templo durante la caída de la Antigua República. Con una armadura distintiva a menudo hecha de beskar, eran temidos en toda la galaxia y tenían influencia política sobre otros dos mil sistemas estelares",
+        "nativos": {
+        }
+      },
+      {
+        "id": 9,
+        "nombre": "Tatooine",
+        "coordenadas": "DESCONOCIDO",
+        "rotacion": "DESCONOCIDO",
+        "orbita": "DESCONOCIDO",
+        "clima": "Arido",
+        "imagen": "https://static.wikia.nocookie.net/esstarwars/images/b/b0/Tatooine_TPM.png/revision/latest/scale-to-width-down/350?cb=20131214162357",
+        "descripcion": "Tatooine era un planeta desértico circunvolucional escasamente habitado ubicado en los Territorios del Borde Exterior de la galaxia. Servio como el planeta natal de los influyentes Anakin y Luke Skywalker, que le darían forma a la historia galáctica. Parte de un sistema estelar binario, el planeta era oprimido por los soles abrasadores, lo que provocó que el mundo careciera de las aguas superficiales necesarias para sostener grandes poblaciones. Como resultado, muchos residentes del planeta sacaron agua de la atmósfera a través de granjas de humedad",
+        "nativos": {
+          "https://my-json-server.typicode.com/DiabloJM/myStarWarsAPI/personajes/11",
+          "https://my-json-server.typicode.com/DiabloJM/myStarWarsAPI/personajes/7"
+        }
+      },
+      {
+        "id": 10,
+        "nombre": "Naboo",
+        "coordenadas": "O-17",
+        "rotacion": "26 Horas",
+        "orbita": "312 Dias",
+        "clima": "Templado",
+        "imagen": "https://static.wikia.nocookie.net/esstarwars/images/f/f0/Naboo_planet.png/revision/latest/scale-to-width-down/350?cb=20190928214307",
+        "descripcion": "Naboo era un pequeño mundo pastoral[37] en el Borde Medio,[1] ubicado cerca de la frontera de los Territorios del Borde Exterior.[9] A diferencia de la mayoría de los otros mundos, el antiguo planeta carecía de un núcleo fundido, y en su lugar comprendía un conglomerado de cuerpos grandes y rocosos que formaban una red de túneles y cuevas inundadas. Los nativos gungans, que construyeron sus hogares en las aguas de Naboo, rara vez se aventuraban en el núcleo, temiendo a las voraces bestias marinas que residían[1] en áreas como las Cuevas de Eleuabad",
+        "nativos": {
+          "https://my-json-server.typicode.com/DiabloJM/myStarWarsAPI/personajes/6",
+          "https://my-json-server.typicode.com/DiabloJM/myStarWarsAPI/personajes/12",
+          "https://my-json-server.typicode.com/DiabloJM/myStarWarsAPI/personajes/15"
+        }
+      },
+    ]
+    ],
   ]
 }
